@@ -6,26 +6,26 @@
 
 * Инструкция по установке OpenJDK11 работает под ОС Windows 10
 * Приложение запускается и совместимо с Java 11
-* Приложение работает согласно [руководству использования] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* Приложение работает согласно [руководству использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Дата начала 25.03.2020 - Дата окончания 25.03.2020 было проведено тестирование установки приложения OpenJDK11.
 
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [ссылка на описание дефекта] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-* [ссылка на описание issue] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [ссылка на описание дефекта](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [ссылка на описание issue](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Инструкция по установке OpenJDK11] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
-* [Руководство использования KeyValidator] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 *Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
-В качестве тестовых данных использовались данные из [Руководства использования KeyValidator] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) и [Инструкции по установке OpenJDK11] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md):
-* Установочный файл **OpenJDK11U-jdk_x64_windows_hotspot_11.0.6_10.msi** с сайта [adoptopenjdk.net] (https://adoptopenjdk.net/)
+В качестве тестовых данных использовались данные из [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) и [Инструкции по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md):
+* Установочный файл **OpenJDK11U-jdk_x64_windows_hotspot_11.0.6_10.msi** с сайта [adoptopenjdk.net](https://adoptopenjdk.net/)
 * **Валидные ключи**:
     * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
     * 80b427f8-92cd-3aae-ba04-3927fbe17c6
