@@ -13,7 +13,7 @@
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [ссылка на описание дефекта](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Валидный ключ KeyValidator отдает FAIL](https://github.com/voevodina/introduction/issues/1)
 * [ссылка на описание issue](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 ## Описание процесса тестирования
