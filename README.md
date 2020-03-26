@@ -14,15 +14,13 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Валидный ключ KeyValidator отдает FAIL](https://github.com/voevodina/introduction/issues/1)
-* [ссылка на описание issue](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* [Невалидный ключ KeyValidator отдает OK](https://github.com/voevodina/introduction/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
-
-*Примечание\*: не указывайте артефакты "для галочки". Если вы сюда напишите **тест-план**, то мы попросим вас его показать (а если не покажете - то отправим работу на доработку). Пишите только то, что реально существует и требуется в задании.*
 
 В качестве тестовых данных использовались данные из [Руководства использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) и [Инструкции по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md):
 
